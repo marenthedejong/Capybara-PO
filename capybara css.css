@@ -39,10 +39,15 @@ html, body {
     transition: bottom 300ms ease;
     position:relative;
     bottom: 15px;
+	position:relative;
+    left: 4em;
+    top: 1em;
+   
   }
 
     .main-nav a:hover {
       bottom: -20px;
+	  
     }
 
 .page-content {
