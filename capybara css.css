@@ -17,6 +17,7 @@ html, body {
   width: 100%;
   height: 150px;
   position:relative;
+
 }
 
 .main-nav {
@@ -24,6 +25,7 @@ html, body {
   margin-left: 200px;
   position: absolute;
   bottom: 0px;
+ 
 }
 
   .main-nav a {
@@ -57,7 +59,11 @@ h1 {
   margin: 10px 0 40px;
   padding-bottom: 10px;
   color: #6f717d;
-}
+  border-bottom-style: solid; 
+  border-bottom-color: #6f717d; 
+  border-bottom-width: 2px; 
+  
+} 
 
 h2 {
   position: sticky;
