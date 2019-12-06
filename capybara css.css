@@ -47,7 +47,7 @@ html, body {
 
     .main-nav a:hover {
       bottom: -20px;
-	  
+	  transform: translateY(-15px);
     }
 
 .page-content {
