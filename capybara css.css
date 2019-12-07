@@ -79,6 +79,16 @@ h2 {
 }
 
 
+
+.right {
+
+ float: right;
+ padding: 0 3px 5px 0;
+
+}
+
+
+
 .page-nav {
 position: absolute; 
   bottom: 190px; 
