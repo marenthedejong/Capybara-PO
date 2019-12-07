@@ -80,28 +80,39 @@ h2 {
 
 
 .page-nav {
- 
+position: absolute; 
+  bottom: 220px; 
+  left: 30px; 
+  
 }
 
   .page-nav ul {
     list-style-type: none;
     padding-left: 20px;
+
+
   }
 
     .page-nav ul li {
       transition: all 300ms ease;
       left: 0px;
       position: relative;
-      line-height: 200%;
+      line-height: 10%;
+	 
+	
     }
 
       .page-nav ul li:hover {
         left: 4px;
+		
+ 
       }
 
       .page-nav ul li a:visited {
         color: #6f717d;
       }
+	  
+	  
 a:link {
   color: #6f717d; 
   text-decoration: none; 
